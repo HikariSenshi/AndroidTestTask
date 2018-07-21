@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_item_padding">10dp</dimen>
+    <dimen name="item_bg_size">120dp</dimen>
+    <dimen name="item_image_size">60dp</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Application A</string>
+    <string name="tab_name_test">Test</string>
+    <string name="tab_name_history">History</string>
+    <string name="edit_text_hint">Enter or copy url of the image</string>
+    <string name="text_ok">OK</string>
+    <string name="second_app_package_name">com.testtask.applicationb</string>
+    <string name="empty_text">Nothing to show</string>
+    <string name="app_not_found">App B wasn`t installed</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="sort_by_status">Sort by status</string>
+    <string name="title_date_dialog">Order date sort by</string>
+    <string name="title_status_dialog">Set status order</string>
+    <string name="not_valid_url">Enter a valid url</string>
+</resources>

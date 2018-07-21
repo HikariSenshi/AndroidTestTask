@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_date">
+        <item>From old to new</item>
+        <item>From new to old</item>
+    </string-array>
+
+    <string-array name="items_status">
+        <item>Green Red Grey</item>
+        <item>Grey Green Red</item>
+    </string-array>
+
+</resources>

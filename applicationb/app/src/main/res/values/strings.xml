@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application B</string>
+    <string name="not_separate_messsge">It is not the separate and will be closed in 10 seconds </string>
+    <string name="permission_not_granted">Permission not granted</string>
+</resources>
